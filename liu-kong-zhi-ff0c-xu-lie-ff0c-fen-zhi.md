@@ -12,33 +12,33 @@ Scope:  变量作用域
 
 Type： 变量类型
 
-数据类型
+## 数据类型
 
-String
+**String**
 
 任何文本，例如 “Hello World!” , “AG221fk”
 
-int32
+**int32**
 
 整形，例如 201, 33167
 
-Double
+**Double**
 
 浮点数，例如 22.01，444.99
 
-Boolean
+**Boolean**
 
 布尔值，True或者False
 
-Datetime
+**Datetime**
 
 日期时间，例如new DateTime\(2017, 12, 21\)
 
-DataTable
+**DataTable**
 
 数据表。
 
-Generic Value
+**Generic Value**
 
 各种数据类型，可以保存数值，字符，日期等。这也是UiPath的内置类型，有了它我们流程参数处理起来就更舒服了。
 
