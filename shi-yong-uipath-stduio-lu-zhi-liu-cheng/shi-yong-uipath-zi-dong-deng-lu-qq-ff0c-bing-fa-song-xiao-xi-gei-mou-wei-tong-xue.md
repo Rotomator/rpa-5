@@ -17,3 +17,15 @@
 
 创建完成后，你能看到整个UiPath studio![](/assets1.1/import3.png)
 
+点击录制按钮，选择desktop
+
+![](/assets1.1/import4.png)
+
+我们首先启动QQ，点击Start App，用鼠标画出要启动的图标。在弹出的框内输入TIM的路径。
+
+![](/assets1.1/import5.png)
+
+
+
+
+
