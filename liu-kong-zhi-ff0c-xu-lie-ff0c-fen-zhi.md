@@ -47,10 +47,10 @@ while和do while两种方式其实差不多，区别在于执行动作的先后�
 
 ![](/assets2.1/import5.png)
 
-**For Each**
+**For Each**  
+foreach的循环有些不同。
 
-
-
-
+![](/assets2.1/import6.png)
+它通过遍历项目列表，一次一个项目执行任何操作来起作用
 
 
