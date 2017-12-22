@@ -169,14 +169,14 @@ web服务（REST API）能够使用以下方式保护其安全性 :
 
 ### 生产环境\(无高可用和故障转移\)
 
-**Web Application, Configuration Web Service, Deployment Web Service**  
+**Web Application, Configuration Web Service, Deployment Web Service**
 
-|  | 10-100个机器人 |  |  
-| :--- | :--- | :--- |  
-|  | 最小 | 推荐 |  
-| CPU | 4 X 2.4Ghz cores | 8 X 2.4Ghz cores |  
-| RAM | 16G | 32G |  
-| HDD | 250G | 500G |  
+|  | 10-100个机器人 |  |
+| :--- | :--- | :--- |
+|  | 最小 | 推荐 |
+| CPU | 4 X 2.4Ghz cores | 8 X 2.4Ghz cores |
+| RAM | 16G | 32G |
+| HDD | 250G | 500G |
 | OS | Windows Server 2008 R2 OR Windows Server 2012 R2 OR Windows Server 2014 | Windows Server 2008 R2 OR Windows Server 2012 R2 OR Windows Server 2014 |
 
 **SQL Server**
