@@ -27,11 +27,7 @@
 
 ![](/assets1.1/import5.png)
 
-点击ok，再次回到录制的界面。点击Save&exit，再次回到UiPath Studio。
-
-![](/assets1.1/import6.png)
-
-在Main工程里已经能看到刚才录制的内容。我们继续录制，先打开TIM，我们录制登录过程。选择Type
+我们继续录制，先打开TIM，我们录制登录过程。选择Type
 
 ![](/assets1.1/import7.png)
 
