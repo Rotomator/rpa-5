@@ -21,5 +21,5 @@ Orchestrator的主要功能：
 
 ## UI界面![](/assets1.2/import3.png)
 
-
+上图为Orchestrator的首页，在该页面中你可以看到进程、资产、队列、计划、机器人、任务、事务等情况。
 
