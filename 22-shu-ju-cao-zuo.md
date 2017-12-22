@@ -4,11 +4,16 @@
 
 ## 文本Text
 
-文本就是一段文字，例如:
-String itemId = “ASD123”
-String filePath=”Downloads/{0}/output.txt”
+文本就是一段文字，例如:  
+String itemId = “ASD123”  
+String filePath=”Downloads/{0}/output.txt”  
 String random=” ASD “
 
 那么在UiPath里常见的字符串操作有哪些呢？
+
+| 方法 | 用法 | 返回值 |
+| :--- | :--- | :--- |
+|  |  |  |
+
 
 
