@@ -24,6 +24,8 @@ String random=” ASD “
 
 ## 一般类型 Generic Value
 
+该类型为UiPath特有类型,可以代表字符串、数字、日期等等。
+
 
 
 
