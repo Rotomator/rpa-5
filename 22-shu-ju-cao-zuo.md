@@ -13,7 +13,14 @@ String random=” ASD “
 
 | 方法 | 用法 | 返回值 |
 | :--- | :--- | :--- |
-|  |  |  |
+| Format | String.Format\(filePath,itemId\) | Downloads/ASD123/output.txt |
+| Substring | filePath.Substring\(10\) | ASD123/output.txt |
+| Split | filePath.Split\(“/”.ToCharArray\) | Downloads, ASD123, output.txt |
+| toLower/toUpper | filePath.ToUpper | DOWNLOADS/ASD123/OUTPUT.TXT |
+| Contains | filePath.Contains\(“.”\) | true |
+| endsWith/startsWith | filePath.EndsWith\(“.txt”\) | true |
+| Replace | filePath.Replace\(“/”,”\”\) | Downloads\ASD123\output.txt |
+| Trim | random.Trim | “ASD” |
 
 
 
