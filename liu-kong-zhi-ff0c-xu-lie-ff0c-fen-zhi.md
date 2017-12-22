@@ -4,9 +4,13 @@
 
 在开始本节之前需要先说明UiPath中的变量，你可以随意的在文本框中使用和定义变量。定义的变量有4种属性。
 
+Name： 变量名称
 
+Value： 变量值
 
+Scope:  变量作用域
 
+Type： 变量类型
 
 ## Flow Decision和IF
 
