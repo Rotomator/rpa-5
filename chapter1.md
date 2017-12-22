@@ -16,7 +16,7 @@ UiPath主要由三部分组成，分别是：
 
 UiPath Studio是使用业务流程图创建设计器的工具。UiPath Studio基于微软的workflow Foundation。界面上和visio或者其他流程图工具类似。
 
-可以使用UiPathStudio，设计不同类型的工作流程，顺序、流程图和事务性业务流程。
+可以使用UiPath Studio，设计不同类型的工作流程，顺序、流程图和事务性业务流程。
 
 ![](/assets1-4/overview4.png)
 
