@@ -7,13 +7,13 @@
 
 使用UiPath登陆QQ
 
-首先打开UiPath Studio，点击创建flowchart
+首先打开UiPath Studio，点击创建Blank,创建一个空工程。
 
 ![](/assets1.1/import1.png)
 
 在弹出的窗口里填入工程名称以及项目位置。
 
-![](/assets1.1/import2.png)
+
 
 创建完成后，你能看到整个UiPath studio![](/assets1.1/import3.png)
 
@@ -25,7 +25,5 @@
 
 ![](/assets1.1/import5.png)
 
-
-
-
+点击ok，再次回到录制的界面。
 
