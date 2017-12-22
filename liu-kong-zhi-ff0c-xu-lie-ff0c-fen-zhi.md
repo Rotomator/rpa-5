@@ -10,7 +10,7 @@
 
 1. input dialog输入框
 在这个输入框中，我们提示用户输入年份，根据用户输入的年份来判断是否为闰年。
-2. 
+2. Decision使用Flow Decision，它的输出有两条，一条为True，另一条为false。
 
 **使用IF实现**
 
