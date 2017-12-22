@@ -34,4 +34,7 @@ String random=” ASD “
 ![](/assets2.2/import1.png)
 
 
+## List和Array
+
+
 
