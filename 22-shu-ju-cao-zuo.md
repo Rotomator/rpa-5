@@ -41,5 +41,8 @@ String random=” ASD “
 
 虚幻在上一节已经说明。除了foreach，还有getrowitem，可以用来获取datatable的数据行。
 
+## 创建DataTable
+
+
 
 
