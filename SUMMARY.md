@@ -8,8 +8,8 @@
     * 使用UiPath批量录入数据
   * [1.2 UiPath Reboot概述](uipath-reboot.md)
   * [1.3 UiPath Orchestrator概述](uipath-orchestrator.md)
-* 第二章 UiPath功能
-  * [流控制，序列，分支](liu-kong-zhi-ff0c-xu-lie-ff0c-fen-zhi.md)
+* [第二章 UiPath功能](di-er-zhang-uipath-gong-neng.md)
+  * [2.1 流控制，序列，分支](liu-kong-zhi-ff0c-xu-lie-ff0c-fen-zhi.md)
   * 2.2 数据操作
   * 2.3 Excel及数据表
   * 2.4 录制
@@ -26,7 +26,7 @@
   * 2.15 SAP
   * 2.16 数据库
 * 第三章 UiPath架构
-  * [UiPath高可用部署](uipathgao-ke-yong-bu-shu.md)
+  * [3.1 UiPath高可用部署](uipathgao-ke-yong-bu-shu.md)
 * 第四章 实战案例
 * 参考及引用
 
