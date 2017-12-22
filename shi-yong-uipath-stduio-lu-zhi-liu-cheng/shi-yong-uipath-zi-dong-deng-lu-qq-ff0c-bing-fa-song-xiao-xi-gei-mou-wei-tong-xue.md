@@ -47,9 +47,9 @@
 
 ![](/assets1.1/import10.png)
 
-选择click，在登录框中点击登录按钮。此时我们就录制完成了登录的部分。你可以点击Save&exit，在UiPath中点击Run,来执行刚刚录制的脚本。
+选择click，在登录框中点击登录按钮。此时我们就录制完成了登录的部分。你可以点击Save&exit。
 
+![](/assets1.1/import11.png)
 
-
-
+在Main工程中找到刚刚密码框，它需要你输入密码。保存，然后在UiPath中点击Run,来执行刚刚录制的脚本。
 
