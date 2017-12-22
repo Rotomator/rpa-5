@@ -15,9 +15,7 @@
 
 ![](/assets1.1/import2.png)
 
-
-
-创建完成后，你能看到整个UiPath studio![](/assets1.1/import3.png)
+创建完成后，你能看到整个UiPath studio
 
 点击录制按钮，选择desktop
 
