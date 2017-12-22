@@ -47,6 +47,9 @@ while和do while两种方式其实差不多，区别在于执行动作的先后�
 
 ![](/assets2.1/import5.png)
 
+**For Each**
+
+
 
 
 
