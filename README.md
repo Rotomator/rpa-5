@@ -13,7 +13,7 @@ guoliang1114@gmail.com
  * PRA架构师
 
 
-本文档版权所有，请勿转载。
+版权所有，请勿转载。
 
 另外，本文档中的所有工程，您都可以从 https://github.com/guoliang1114/rpa-sample  获取。
 
