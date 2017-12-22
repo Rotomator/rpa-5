@@ -47,7 +47,7 @@ String random=” ASD “
 
 ![](/assets2.2/import2.png)
 
-过滤DataTable
+同时也可以使用select来过滤DataTable，例如：
 
-
+db.select\("Processed &lt;&gt;'Y'"\)
 
