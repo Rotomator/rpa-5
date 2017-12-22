@@ -10,7 +10,7 @@
 
 1. input dialog输入框
 在这个输入框中，我们提示用户输入年份，根据用户输入的年份来判断是否为闰年。
-2. Decision使用Flow Decision，它的输出有两条，一条为True，另一条为false。
+2. Decision使用Flow Decision，它的输出有两条，一条为True，另一条为false。Decision有一个核心的参数是Condition。该参数的返回值是true或者false。这里我们需要判断是否为闰年，其实就是年份除以4是后的余数是否为0，表达式为“year mod 4 = 0”
 
 
 **使用IF实现**
