@@ -9,8 +9,8 @@ guoliang1114@gmail.com
 欢迎探讨UiPath以及其他RPA相关内容。
 
 本文档适合阅读的人员有：
-RPA开发者
-PRA架构师
+ * RPA开发者
+ * PRA架构师
 
 
 本文档版权所有，请勿转载。
