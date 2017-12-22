@@ -43,6 +43,7 @@ String random=” ASD “
 
 ## 创建DataTable
 
+可以使用buildDataTable来创建数据表。
 
 
 
