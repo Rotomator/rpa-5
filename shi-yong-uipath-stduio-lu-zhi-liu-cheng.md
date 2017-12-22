@@ -18,3 +18,5 @@ UiPATH支持任何类型的桌面应用程序，无论是用.NET，Java，C ++�
 
 ![](/assets1-3/overview3.png)
 
+为了大家对UiPath有一个全面的认识，我们从几个小例子快速开始。
+
