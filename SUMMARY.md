@@ -9,7 +9,7 @@
   * [1.3 UiPath Orchestrator概述](uipath-orchestrator.md)
 * [第二章 UiPath功能](di-er-zhang-uipath-gong-neng.md)
   * [2.1 流控制、序列、分支](liu-kong-zhi-ff0c-xu-lie-ff0c-fen-zhi.md)
-  * 2.2 数据操作
+  * [2.2 数据操作](22-shu-ju-cao-zuo.md)
   * 2.3 Excel及数据表
   * 2.4 录制
   * 2.5 选择器
