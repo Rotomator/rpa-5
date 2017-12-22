@@ -1,15 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
-* 第一章 [UiPath简介](chapter1.md)
-  * 1.1 [UiPath Stduio](shi-yong-uipath-stduio-lu-zhi-liu-cheng.md)
-    * 使用UiPath自动登录QQ，并发送消息给某位同学
+* [UiPath简介](chapter1.md)
+  * [UiPath Stduio](shi-yong-uipath-stduio-lu-zhi-liu-cheng.md)
+    * [使用UiPath自动登录QQ，并发送消息给某位同学](shi-yong-uipath-stduio-lu-zhi-liu-cheng/shi-yong-uipath-zi-dong-deng-lu-qq-ff0c-bing-fa-song-xiao-xi-gei-mou-wei-tong-xue.md)
     * 使用UiPath获取天气数据，并发送邮件给自己
     * 使用UiPath批量录入数据
- * 1.2 [UiPath Reboot](uipath-reboot.md)
- * 1.3 [UiPath Orchestrator](uipath-orchestrator.md)
+  * [UiPath Reboot](uipath-reboot.md)
+  * [UiPath Orchestrator](uipath-orchestrator.md)
 * 第二章 UiPath功能
-  * 2.1 [流控制，序列，分支](liu-kong-zhi-ff0c-xu-lie-ff0c-fen-zhi.md)
+  * [流控制，序列，分支](liu-kong-zhi-ff0c-xu-lie-ff0c-fen-zhi.md)
   * 2.2 数据操作
   * 2.3 Excel及数据表
   * 2.4 录制
@@ -26,7 +26,7 @@
   * 2.15 SAP
   * 2.16 数据库
 * 第三章 UiPath架构
-  * 3.1 [UiPath高可用部署](uipathgao-ke-yong-bu-shu.md)
+  * [UiPath高可用部署](uipathgao-ke-yong-bu-shu.md)
 * 第四章 实战案例
 * 参考及引用
 
