@@ -62,7 +62,6 @@ for each我们可以举一个例子，比如需要输出某个文件夹下的文
 
 1. 首先使用select folder来让用户选择目录，并创建一个变量selectedFolder来接收这个目录信息。
 2. 使用Assign来赋值，创建新的变量filelist，其类型为List < String >,使用UiPath的库Directory.GetFiles(selectedFolder)来获取目录信息。
-
-
+3. 使用foreach来循环filelist，并把每一个item输出到控制台。
 
 
