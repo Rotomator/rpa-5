@@ -32,9 +32,15 @@ Boolean
 
 Datetime
 
-日期时间，例如new DateTime\(2017, 12, 21\),
+日期时间，例如new DateTime\(2017, 12, 21\)
 
+DataTable
 
+数据表。
+
+Generic Value
+
+各种数据类型，可以保存数值，字符，日期等。这也是UiPath的内置类型，有了它我们流程参数处理起来就更舒服了。
 
 ## Flow Decision和IF
 
