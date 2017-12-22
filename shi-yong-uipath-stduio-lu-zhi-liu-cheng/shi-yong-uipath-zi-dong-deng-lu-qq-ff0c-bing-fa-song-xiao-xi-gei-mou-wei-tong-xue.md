@@ -13,6 +13,8 @@
 
 在弹出的窗口里填入工程名称以及项目位置。
 
+![](/assets1.1/import2.png)
+
 
 
 创建完成后，你能看到整个UiPath studio![](/assets1.1/import3.png)
