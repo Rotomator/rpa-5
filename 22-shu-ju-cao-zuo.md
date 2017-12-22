@@ -9,5 +9,6 @@ String itemId = “ASD123”
 String filePath=”Downloads/{0}/output.txt”
 String random=” ASD “
 
+那么在UiPath里常见的字符串操作有哪些呢？
 
 
