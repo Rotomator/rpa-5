@@ -5,7 +5,7 @@
   * [1.1 UiPath Stduio概述 ](shi-yong-uipath-stduio-lu-zhi-liu-cheng.md)
     * [使用UiPath自动登录QQ，并发送消息给某位同学](shi-yong-uipath-stduio-lu-zhi-liu-cheng/shi-yong-uipath-zi-dong-deng-lu-qq-ff0c-bing-fa-song-xiao-xi-gei-mou-wei-tong-xue.md)
     * [使用UiPath获取天气数据，并发送邮件给自己](shi-yong-uipath-stduio-lu-zhi-liu-cheng/shi-yong-uipath-huo-qu-tian-qi-shu-ju-ff0c-bing-fa-song-you-jian-gei-zi-ji.md)
-    * 使用UiPath批量录入数据
+    * [使用UiPath批量录入数据](shi-yong-uipath-stduio-lu-zhi-liu-cheng/shi-yong-uipath-pi-liang-lu-ru-shu-ju.md)
   * [1.2 UiPath Reboot概述](uipath-reboot.md)
   * [1.3 UiPath Orchestrator概述](uipath-orchestrator.md)
 * [第二章 UiPath功能](di-er-zhang-uipath-gong-neng.md)
