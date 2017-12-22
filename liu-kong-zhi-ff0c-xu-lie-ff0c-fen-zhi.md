@@ -18,13 +18,23 @@ String
 
 任何文本，例如 “Hello World!” , “AG221fk”
 
-int32 
+int32
 
- 整形，例如 201, 33167
+整形，例如 201, 33167
 
 Double
 
-浮点数，例如 22.01，44.99
+浮点数，例如 22.01，444.99
+
+Boolean
+
+布尔值，True或者False
+
+Datetime
+
+日期时间，例如new DateTime\(2017, 12, 21\),
+
+
 
 ## Flow Decision和IF
 
