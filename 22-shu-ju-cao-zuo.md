@@ -33,8 +33,8 @@ String random=” ASD “
 
 ![](/assets2.2/import1.png)
 
-
 ## List和Array
+
 都是用来保存一个数据集合。和大家熟悉的是类型一样。
 
 ## 循环
@@ -43,7 +43,7 @@ String random=” ASD “
 
 ## 创建DataTable
 
-可以使用buildDataTable来创建数据表。
+可以使用buildDataTable来创建数据表。可以自己添加列和行。
 
-
+![](/assets2.2/import2.png)
 
