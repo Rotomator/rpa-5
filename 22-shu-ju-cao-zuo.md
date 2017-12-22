@@ -35,6 +35,7 @@ String random=” ASD “
 
 
 ## List和Array
+都是用来保存一个数据集合。
 
 
 
