@@ -4,3 +4,10 @@
 
 ## 文本Text
 
+文本就是一段文字，例如:
+String itemId = “ASD123”
+String filePath=”Downloads/{0}/output.txt”
+String random=” ASD “
+
+
+
