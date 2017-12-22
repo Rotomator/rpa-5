@@ -41,6 +41,6 @@
 ![](/assets2.1/import3.png)
 
 **While和Do While**
-while和do while两种方式其实差不多，区别在于执行动作的先后。
+while和do while两种方式其实差不多，区别在于执行动作的先后。看看UiPath给出的两者图就一目了然了。
 
 
