@@ -9,12 +9,19 @@
 ![](/assets2.1/import1.png)
 
 1. input dialog输入框
-在这个输入框中，我们提示用户输入年份，根据用户输入的年份来判断是否为闰年。并需要创建一个类型为Int32的变量year来接受用户输入的值。
+   在这个输入框中，我们提示用户输入年份，根据用户输入的年份来判断是否为闰年。并需要创建一个类型为Int32的变量year来接受用户输入的值。
 2. Decision使用Flow Decision，它的输出有两条，一条为True，另一条为false。Decision有一个核心的参数是Condition。该参数的返回值是true或者false。这里我们需要判断是否为闰年，其实就是年份除以4是后的余数是否为0，表达式为“year mod 4 = 0”
 3. 闰年，如果decision为true，弹出对话框提供用户为闰年。
 4. 非闰年，如果decision为false，弹出对话框提供用户为非闰年。
 
-
 **使用IF实现**
+
+![](/assets2.1/import2.png)
+1. input dialog输入框
+   在这个输入框中，我们提示用户输入年份，根据用户输入的年份来判断是否为闰年。并需要创建一个类型为Int32的变量year来接受用户输入的值。
+2. Decision使用Flow Decision，它的输出有两条，一条为True，另一条为false。Decision有一个核心的参数是Condition。该参数的返回值是true或者false。这里我们需要判断是否为闰年，其实就是年份除以4是后的余数是否为0，表达式为“year mod 4 = 0”
+3. 闰年，如果decision为true，弹出对话框提供用户为闰年。
+4. 非闰年，如果decision为false，弹出对话框提供用户为非闰年。
+
 
 
