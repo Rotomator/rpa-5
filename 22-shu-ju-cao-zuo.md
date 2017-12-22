@@ -22,5 +22,9 @@ String random=” ASD “
 | Replace | filePath.Replace\(“/”,”\”\) | Downloads\ASD123\output.txt |
 | Trim | random.Trim | “ASD” |
 
+## 一般类型 Generic Value
+
+
+
 
 
