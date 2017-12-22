@@ -24,7 +24,7 @@ String random=” ASD “
 
 ## 一般类型 Generic Value
 
-该类型为UiPath特有类型,可以代表字符串、数字、日期等等。它使得在流程中处理数据更得心应手。
+该类型为UiPath特有类型,可以代表字符串、数字、日期等等。它使得在流程中处理数据更得心应手。默认的，在UiPath中系统生成的变量都会采用Generic Value。
 
 
 
