@@ -8,6 +8,7 @@ Excel Application Scope是开始所有Excel世界的大门，它是一个容器�
 另外，你电脑上如果没有安装Excel，也是可以使用它来执行，但是需要将它的属性“Visible”设置为false。  
 除了它之外，还有很多其他操作excel的组件，例如： Read Range, Write Range, Append Range, Sort Table, Read Cell 和 Write Cell, 而数据表的操作组件有For Each Row, Output Data Table, Get Row Item, Add Data Row 以及 Build Data Table。这些组件件如其名。我们挑选几个重点的来说一说。
 
+##Excel 操作
 我们从一个简单的例子开始。有一个Excel文件，我们需要使用UiPath打开该文件，在UiPath的output中打开出其内容,最后将其保存到新文件中。
 
 ![](/assets2.3/import1.png)
