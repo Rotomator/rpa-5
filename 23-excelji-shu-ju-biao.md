@@ -8,7 +8,6 @@ Excel/工作薄\(Workbooks\)是基于Excel文件，能存放各种数据的容�
 ##Excel 操作
 
 
-
 UiPath有多其他操作excel的组件，例如： Read Range, Write Range, Append Range, Sort Table, Read Cell 和 Write Cell, 而数据表的操作组件有For Each Row, Output Data Table, Get Row Item, Add Data Row 以及 Build Data Table。这些组件件如其名。我们挑选几个重点的来说一说。
 
 ### Excel Application Scope
