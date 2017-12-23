@@ -27,13 +27,11 @@ Excel Application Scope是开始所有Excel世界的大门，它是一个容器�
 
 下半段，继续使用Excel Application Scope打开book2文件，如果book2文件不存在的话，会自动创建。使用Append Range来将上半段的datatable添加到新文件。另外，图中的变量dt需要更改作用域才可以在下半段使用。
 
+
+
 刚刚大家已经对几个组件有了一定的认知。我们继续给大家介绍
 
 ### Write Range和Append Range
 
 Write Range和Append Range有些类似，它们都需要datatable来作为入参，Write Range是用来写数据的，如果有数据的话会被覆盖；而Append会原有数据后添加数据,不会覆盖现有数据。
-
-
-
-
 
