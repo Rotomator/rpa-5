@@ -44,7 +44,7 @@ Write Range和Append Range有些类似，它们都需要datatable来作为入参
 
 ### Read Range
 
-Read Range用来读取一个区域的数据。  
+Read Range用来读取一个区域的数据，返回datatable。  
 ![](/assets2.3/import4.png)
 
 | 参数 | 描述 | 备注 |
