@@ -4,6 +4,12 @@ Excel是UiPath的最常用的场景。本文将带领大家了了解UiPath对Exc
 Excel/工作薄(Workbooks)是基于Excel文件，能存放各种数据的容器。能够格式化，工作表，布局，合并单元格以及多个数据表等等，其实就是你所理解的Excel。
 数据表(Data tables)则是一种简单的电子表格，有一些行和列，表头都是可用可无的。
 
+Excel Application Scope is a container that enables you to work with all the other Excel activities. This activity is where you specify the .xlsx file you want to work with.
+
+Additionally, you can work with this container even if you do not have MS Office Excel installed on the machine, if the Visible property is cleared. 
+
+Besides this, this video helps you understand, through practical exercises, how to use the most popular Excel activities such as Read Range, Write Range, Append Range, Sort Table, Read Cell and Write Cell, as well as DataTable activities such as For Each Row, Output Data Table, Get Row Item, Add Data Row and Build Data Table.
+
 我们从一个简单的例子开始。有一个Excel文件，我们需要使用UiPath打开文件，在UiPath的output中打开出其内容,最后将其保存到新文件中。
 
 
