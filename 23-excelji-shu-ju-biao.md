@@ -16,5 +16,5 @@ Excel Application Scope是开始所有Excel世界的大门，它是一个容器�
 
 ![](/assets2.3/import2.png)
 
-下半段，继续使用Excel Application Scope打开book2文件，如果book2文件不存在的话，会自动创建。
+下半段，继续使用Excel Application Scope打开book2文件，如果book2文件不存在的话，会自动创建。使用Append Range来将上半段的datatable添加到新文件。另外，图中的变量dt需要更改作用域才可以在下半段使用。
 
