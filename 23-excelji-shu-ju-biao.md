@@ -6,8 +6,7 @@ Excel/工作薄(Workbooks)是基于Excel文件，能存放各种数据的容器�
 
 Excel Application Scope是开始所有Excel世界的大门，它是一个容器，你可以用它执行要处理的excel的文件，所有的Excel的操作都需要在它内部执行。
 另外，你电脑上如果没有安装Excel，也是可以使用它来执行，但是需要将它的属性“Visible”设置为false。 
-
-Besides this, this video helps you understand, through practical exercises, how to use the most popular Excel activities such as Read Range, Write Range, Append Range, Sort Table, Read Cell and Write Cell, as well as DataTable activities such as For Each Row, Output Data Table, Get Row Item, Add Data Row and Build Data Table.
+除了它之外，还有很多其他操作excel的组件，例如： Read Range, Write Range, Append Range, Sort Table, Read Cell 和 Write Cell, 而数据表的操作组件有For Each Row, Output Data Table, Get Row Item, Add Data Row 以及 Build Data Table。这些组件件如其名。我们挑选几个重点的来说一说。
 
 我们从一个简单的例子开始。有一个Excel文件，我们需要使用UiPath打开文件，在UiPath的output中打开出其内容,最后将其保存到新文件中。
 
