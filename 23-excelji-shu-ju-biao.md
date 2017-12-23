@@ -44,13 +44,14 @@ Write Range和Append Range有些类似，它们都需要datatable来作为入参
 
 ### Read Range
 
-Read Range用来读取一个区域的数据。
+Read Range用来读取一个区域的数据。  
 ![](/assets2.3/import4.png)
 
+| 参数 | 描述 | 备注 |
+| :--- | :--- | :--- |
+| 出参 | Datatable | 读取数据的返回值 |
+| 入参 必填参数 | SheetName |  |
+| 可选 | Range | 读取的范围，默认是自动获取所有数据 |
 
-入参: Workbook path or
-an workbook object
-出参: Data table
-必填 : SheetName
-可选: Range
+
 
