@@ -10,7 +10,7 @@
 * [第二章 UiPath功能](di-er-zhang-uipath-gong-neng.md)
   * [2.1 流控制、序列、分支](liu-kong-zhi-ff0c-xu-lie-ff0c-fen-zhi.md)
   * [2.2 数据操作](22-shu-ju-cao-zuo.md)
-  * 2.3 Excel及数据表
+  * [2.3 Excel及数据表](23-excelji-shu-ju-biao.md)
   * 2.4 录制
   * 2.5 选择器
   * 2.6 UI组件 - 输入
@@ -26,6 +26,6 @@
   * 2.16 数据库
 * 第三章 UiPath架构
   * [3.1 UiPath高可用部署](uipathgao-ke-yong-bu-shu.md)
-* 第四章 实战案例
+* [第四章 实战案例](di-si-zhang-shi-zhan-an-li.md)
 * [参考及引用](can-kao-ji-yin-yong.md)
 
