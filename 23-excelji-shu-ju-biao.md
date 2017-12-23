@@ -5,7 +5,6 @@ Excel/工作薄\(Workbooks\)是基于Excel文件，能存放各种数据的容�
 数据表\(Data tables\)则是一种简单的电子表格，有一些行和列，表头都是可用可无的。
 
 
-
 ##Excel 操作
 Excel Application Scope是开始所有Excel世界的大门，它是一个容器，你可以用它执行要处理的excel的文件，所有的Excel的操作都需要在它内部执行。  
 另外，你电脑上如果没有安装Excel，也是可以使用它来执行，但是需要将它的属性“Visible”设置为false。  
