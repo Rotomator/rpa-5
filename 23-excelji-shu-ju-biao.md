@@ -60,7 +60,7 @@ Read Range用来读取一个区域的数据，返回datatable。
 | 组件名称 | Read Range | Read Cell | Read Column | Read Row | Write range | Write cell |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 入参 | Range SheetName WorkbookPath 或者 Workbook object | Range SheetName WorkbookPath 或者 Workbook object | Range SheetName WorkbookPath 或者 Workbook object | Range SheetName WorkbookPath 或者 Workbook object | Data Table | String |
-| 出参 |  |  |  |  |  |  |
+| 出参 | Data Table | String | IEnumerable |  IEnumerable|  workbook| workbook |
 
 
 
