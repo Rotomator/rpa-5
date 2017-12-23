@@ -27,7 +27,11 @@ Excel Application Scope是开始所有Excel世界的大门，它是一个容器�
 
 下半段，继续使用Excel Application Scope打开book2文件，如果book2文件不存在的话，会自动创建。使用Append Range来将上半段的datatable添加到新文件。另外，图中的变量dt需要更改作用域才可以在下半段使用。
 
+打开Excel的方式：
 
+使用Excel应用：Excel必须安装。进程之间可以共享数据，数据修改可见。
+
+使用文件读取：仅仅支持xlsx格式，不需要安装excel,并且在后台执行。
 
 刚刚大家已经对几个组件有了一定的认知。我们继续给大家介绍
 
