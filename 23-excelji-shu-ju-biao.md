@@ -21,7 +21,7 @@ Excel Application Scope是开始所有Excel世界的大门，它是一个容器�
 
 刚刚大家已经对几个组件有了一定的认知。我们继续给大家介绍
 
-## Write Range和Append Range
+### Write Range和Append Range
 
 Write Range和Append Range有些类似，它们都需要datatable来作为入参，Write Range是用来写数据的，如果有数据的话会被覆盖；而Append会原有数据后添加数据,不会覆盖现有数据。
 
