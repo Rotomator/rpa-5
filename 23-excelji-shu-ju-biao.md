@@ -29,9 +29,12 @@ Excel Application Scope是开始所有Excel世界的大门，它是一个容器�
 
 打开Excel的方式：
 
-使用Excel应用：Excel必须安装。进程之间可以共享数据，数据修改可见。
+* 使用Excel应用：Excel必须安装。进程之间可以共享数据，数据修改可见。
+* 使用文件读取：仅仅支持xlsx格式，不需要安装excel,并且在后台执行。
 
-使用文件读取：仅仅支持xlsx格式，不需要安装excel,并且在后台执行。
+决定打开方式的参数就是Visible。
+
+![](/assets2.3/import3.png)
 
 刚刚大家已经对几个组件有了一定的认知。我们继续给大家介绍
 
