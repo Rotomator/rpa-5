@@ -62,5 +62,5 @@ Read Range用来读取一个区域的数据，返回datatable。
 | 入参 | Range SheetName WorkbookPath 或 Workbook object | Range SheetName WorkbookPath 或 Workbook object | Range SheetName WorkbookPath 或Workbook object | Range SheetName WorkbookPath 或 Workbook object | Data Table | String |
 | 出参 | Data Table | String | IEnumerable | IEnumerable | workbook | workbook |
 
-
+如果需要涉及公式，是能通过Excel应用来操作哦。
 
