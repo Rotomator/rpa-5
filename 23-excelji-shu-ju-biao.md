@@ -53,5 +53,5 @@ Read Range用来读取一个区域的数据，返回datatable。
 | 入参（必填） | SheetName |  |
 | 可选 | Range | 读取的范围，默认是自动获取所有数据 |
 
-
+勾选 “Add Headers”，会将第一行也返回到datatable。
 
