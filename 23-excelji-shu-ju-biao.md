@@ -4,6 +4,10 @@ Excel是UiPath的最常用的场景。本文将带领大家了了解UiPath对Exc
 Excel/工作薄\(Workbooks\)是基于Excel文件，能存放各种数据的容器。能够格式化，工作表，布局，合并单元格以及多个数据表等等，其实就是你所理解的Excel。  
 数据表\(Data tables\)则是一种简单的电子表格，有一些行和列，表头都是可用可无的。
 
+单元格（cell）是表格的最小单位。
+
+范围（Range）是一组单元格，使用":"来隔开。
+
 ## Excel 操作
 
 UiPath有多其他操作excel的组件，例如： Read Range, Write Range, Append Range, Sort Table, Read Cell 和 Write Cell, 而数据表的操作组件有For Each Row, Output Data Table, Get Row Item, Add Data Row 以及 Build Data Table。这些组件件如其名。我们挑选几个重点的来说一说。
@@ -28,6 +32,8 @@ Excel Application Scope是开始所有Excel世界的大门，它是一个容器�
 ### Write Range和Append Range
 
 Write Range和Append Range有些类似，它们都需要datatable来作为入参，Write Range是用来写数据的，如果有数据的话会被覆盖；而Append会原有数据后添加数据,不会覆盖现有数据。
+
+
 
 
 
