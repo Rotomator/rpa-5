@@ -4,5 +4,15 @@
 
 ![](/assets2.4/import1.png)
 
+为什么要使用录制功能呢？
 
+能够帮助新手快速上手。
+
+Learn about basic UI activities and how to use them
+
+Creates quick visual representations of your business process
+
+The output comes with many already set up properties \( eg creating variables\)
+
+Creates a skeleton of the UI automation that you can tweak & parametrize later
 
