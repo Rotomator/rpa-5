@@ -21,7 +21,7 @@
 ##录制的类型
 UiPath提供了四种录制流程的方法： 
 基础（Basic） – 给每一个活动都生成全选择，会使得流程执行速度慢，但是针对单一的活动是非常有效的。
-桌面(Desktop) – 适合所有的桌面应用和多种操作，执行速度会比基础要快很多。
+桌面(Desktop) – 和Basic非常类似，适合所有的桌面应用和多种操作，但是执行速度会比基础要快很多。
 Web – 被设计录制基于浏览器的应用(支持的浏览器: Internet Explorer, Google Chrome)
 Citrix – 用来录制虚拟环境(VNC, virtual machines, Citrix, 等等.) 或者 SAP。
 
