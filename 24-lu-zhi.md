@@ -26,11 +26,13 @@
 
 * 点击
 
- * 按钮（生成Click组件）
- * checkbox，radio buttons（生成Check组件）
- * 下拉框（生成select item组件）
+  * 按钮（生成Click组件）
+  * checkbox，radio buttons（生成Check组件）
+  * 下拉框（生成select item组件）
 
 * 输入（输入Type组件）
 
+## 自助式录制
 
+![](/assets2.4/import3.png)
 
