@@ -6,13 +6,8 @@
 
 为什么要使用录制功能呢？
 
-能够帮助新手快速上手。
+能够帮助新手快速上手
 
-Learn about basic UI activities and how to use them
+快速了解基础组件
 
-Creates quick visual representations of your business process
-
-The output comes with many already set up properties \( eg creating variables\)
-
-Creates a skeleton of the UI automation that you can tweak & parametrize later
-
+快速为你的业务创建自动化流程
