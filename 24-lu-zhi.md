@@ -26,9 +26,9 @@
 
 * 点击
 
- 1. 按钮（生成Click组件）
- 2. checkbox，radio buttons（生成Check组件）
- 3. 下拉框（生成select item组件）
+ * 按钮（生成Click组件）
+ * checkbox，radio buttons（生成Check组件）
+ * 下拉框（生成select item组件）
 
 * 输入（输入Type组件）
 
