@@ -7,15 +7,5 @@
 
 ![](/assets2.5/import1.png)
 
-选择器定义：
-
-Used to find UI elements among the running applications
-
-Similar to postal addresses or OS file paths
-
-Made of 1 or more XML fragments with tags and attributes
-
-One line = One parent UI element needed to reach our target element
-
-UiPath generates the right selector automatically almost all the time
+选择器被用来查找所有应用的UI元素，包括Web页面和App应用。由标记和属性构成的XML片段。UiPath会自动生成元素的选择器。
 
