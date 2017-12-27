@@ -7,3 +7,15 @@
 
 ![](/assets2.5/import1.png)
 
+选择器定义：
+
+Used to find UI elements among the running applications
+
+Similar to postal addresses or OS file paths
+
+Made of 1 or more XML fragments with tags and attributes
+
+One line = One parent UI element needed to reach our target element
+
+UiPath generates the right selector automatically almost all the time
+
