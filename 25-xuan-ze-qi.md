@@ -7,5 +7,19 @@
 
 ![](/assets2.5/import1.png)
 
-选择器被用来查找所有应用的UI元素，包括Web页面和App应用。由标记和属性构成的XML片段。UiPath会自动生成元素的选择器。
+选择器被用来查找所有应用的UI元素，包括Web页面和App应用。由标记和属性构成的XML片段。UiPath会自动生成元素的选择器。以下我们贴出几种常见的选择器：
+
+桌面应用选择器例子
+
+![](/assets2.5/import2.png)
+
+
+
+Java应用选择器
+
+![](/assets2.5/import3.png)
+
+Web应用选择器
+
+![](/assets2.5/import4.png)
 
