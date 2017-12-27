@@ -13,7 +13,7 @@
   * [2.3 Excel及数据表](23-excelji-shu-ju-biao.md)
   * [2.4 录制](24-lu-zhi.md)
   * [2.5 选择器](25-xuan-ze-qi.md)
-  * 2.6 UI组件 - 输入
+  * [2.6 UI组件 - 输入](26-uizu-jian-shu-ru.md)
   * 2.7 UI组件 -  输出
   * 2.8 图片及文本自动化
   * 2.9 高级Citrix自动化
