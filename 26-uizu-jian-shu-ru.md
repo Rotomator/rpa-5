@@ -17,16 +17,24 @@ UiPath提供了各种各样的工具来模拟人类可以做出的所有动作�
 | 模拟输入/点击 | 70% | 是 | 100% | 不支持 | 是 |
 
 ## 公共属性
+
 UI输入组件中有很多公共的属性：
+
 * ContinueOnError - 如果找不到组件，流程继续执行。
 * DelayAfter – 在动作执行之后暂停时间（毫秒）
-* DelayBefore - 在动作开始之前暂停(毫秒)
-* TimeoutMS (Milliseconds) – 查找组件的超时时间。
+* DelayBefore - 在动作开始之前暂停\(毫秒\)
+* TimeoutMS \(Milliseconds\) – 查找组件的超时时间。
 * WaitForReady – 是否等待整个页面导入
 * Target – 目标元素
 
-## UI组件的声明周期
+## UI组件的生命周期
 
+![](/assets2.6/impor1t.png)
 
+1. DelayBefore：在执行之前等待
+2. TimeoutMS： 查找元素，
+3. 如果超时，根据ContinueOnError确定是否抛出异常
+4. 规定时间内找到元素。
+5. 执行DelayAfter
 
 
