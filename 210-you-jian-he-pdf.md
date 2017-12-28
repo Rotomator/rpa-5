@@ -16,4 +16,5 @@
 
 UiPath.Mail.Activities包中包含了所有于邮件相关的组件。
 你可以通过SMTP协议来发送邮件，也可以通过POP3来读取邮件。IMAP能够接受邮件，并且让标记邮件为已读或者移动邮件等等。
+Microsoft的企业邮件解决方案-Exchange已经被UiPath全面集成, 因此UiPtah提供了发送，接收，移动邮件的组件。
 
