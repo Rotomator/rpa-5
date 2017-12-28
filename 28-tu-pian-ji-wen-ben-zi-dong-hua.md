@@ -19,7 +19,7 @@
 
 ![](/assets2.8/import4.png)
 
-clickimage对图片敏感，比如背景色更换等等都会影响流程
+clickimage对图片敏感，比如背景色更换等等都会影响流程。
 
 涉及的组件有：
 
