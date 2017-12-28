@@ -8,6 +8,8 @@
 
 ![](/assets2.8/import1.png)
 
+因此，UiPath无法通过基本的录制来操作。因此UiPath专门为citrix提供了录制。
+
 涉及的组件有：
 
 * 点击图片\(Click Image\) - 组件被用来点击图片、按钮、菜单以及其他相关元素。
