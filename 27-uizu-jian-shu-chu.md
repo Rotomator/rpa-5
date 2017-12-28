@@ -23,5 +23,11 @@ UiPath提供了两种OCR引擎，分别为Google Tesseract和Microsoft Modi。�
 | Google Tesseract | 可以添加 | 小 | 支持 | 支持 | 支持 |  |
 | Mircrosoft Modi | 可以添加 | 大 |  |  |  | 支持 |
 
+##数据抓取(Data scraping)
+数据抓取可以快速从web, PDF, java apps, SAP, 也支持分页数据。支持的集合有：
+* 列表
+* 关联数据
+* 表格
+
 
 
