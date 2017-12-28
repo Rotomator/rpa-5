@@ -17,7 +17,7 @@
   * [2.7 UI组件 -  输出](27-uizu-jian-shu-chu.md)
   * [2.8 Citrix自动化](28-tu-pian-ji-wen-ben-zi-dong-hua.md)
   * [2.9 高级Citrix自动化](29-gao-ji-citrix-zi-dong-hua.md)
-  * 2.10 邮件和PDF
+  * [2.10 邮件和PDF](210-you-jian-he-pdf.md)
   * 2.11 用户事件
   * 2.12 项目组织
   * 2.13 异常和调试
