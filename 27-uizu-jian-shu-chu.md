@@ -15,7 +15,13 @@
 | OCR | 慢 | 98% | 否 | 是 | 否 | 是 |
 
 ## OCR引擎
-UiPath提供了两种OCR引擎，分别为Google Tesseract和Microsoft
-Modi。两种引擎各有优势。
+
+UiPath提供了两种OCR引擎，分别为Google Tesseract和Microsoft Modi。两种引擎各有优势。
+
+|  | 多语言支持 | 提供区域大小 | 支持反色 | 设置期望格式 | 过滤合理字符 | 基于微软字体更优 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Google Tesseract | 可以添加 | 小 | 支持 | 支持 | 支持 |  |
+| Mircrosoft Modi | 可以添加 | 大 |  |  |  | 支持 |
+
 
 
