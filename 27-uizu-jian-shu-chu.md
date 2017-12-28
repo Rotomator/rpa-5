@@ -28,6 +28,6 @@ UiPath提供了两种OCR引擎，分别为Google Tesseract和Microsoft Modi。�
 * 列表
 * 关联数据
 * 表格
-
+在之前的例子中我们已经介绍过了该组件。
 
 
