@@ -3,8 +3,8 @@
 ## 邮件自动化
 
 输入流程
-* Names and IDs coming in subject or body
-* Input files coming as attachments (.xls, .pdf)
+* 主题或正文中名称或者ID
+* 邮件附件(.xls, .pdf)
 输出流程
-* Progress reports to managers
-* Exception alerts
+* 给管理者的报表
+* 异常通知
