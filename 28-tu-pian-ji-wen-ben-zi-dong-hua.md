@@ -1,7 +1,7 @@
 # 图片及文本自动化
 在本节我们将介绍虚拟应用自动化以及如何手动的添加组件到流程中。另外也会使用OCR对虚拟主机进行文本输出。
-
-* Click Image - action you can use to click on mostly anything (as long as the image you choose is unique): buttons, menus, text, or even somewhere relative to such an element.
-* Click Text - it uses OCR to scan the screen of the virtual machine, enables you to extract a specified piece of text and clicks on it (or next to it, depending on your choice).
-* Select & Copy - is the easiest output method being used in Citrix automation, but works only for selectable text, like text boxes.
-* Scrape Relative - allows you to scrape just a portion of * an image, relative to an anchor.
+本节涉及的组件有：
+* 点击图片(Click Image) - 组件被用来点击图片、按钮、菜单以及其他相关元素。
+* 点击文本(Click Text) - 它使用OCR来扫描虚拟主机的屏幕，使得你能够获取指定像素的文本，然后对它进行操作。
+* 选择&拷贝(Select & Copy) - 非常简单的Citrix自动化,但是适合选择文本
+* Scrape Relative - 允许你获取image区域的数据。
