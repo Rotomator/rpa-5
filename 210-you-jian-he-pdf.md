@@ -17,4 +17,7 @@ UiPath.Mail.Activities包中包含了所有于邮件相关的组件。
 Microsoft的企业邮件解决方案-Exchange已经被UiPath全面集成, 因此UiPtah提供了发送，接收，移动邮件的组件。
 Outlook组件非常容易使用，它不需要你配置任何服务器端信息，它使用桌面API。大部分的邮件组件都能够保存消息到 .eml 文件，同时也能够将本地磁盘中的文件当做附件。
 
+## 获取邮件
+UiPath中有四种获取邮件活动：POP3，Outlook ，IMAP和Exchange。
+
 
