@@ -8,7 +8,16 @@
 
 ![](/assets2.8/import1.png)
 
-因此，UiPath无法通过基本的录制来操作。因此UiPath专门为citrix提供了录制。
+因此，UiPath无法通过基本的录制来操作。因此UiPath专门为citrix提供了录制。但是它有一些限制，你无法自动录制一组动作，然后让机器人执行。你必须选择要操作的区域，并告诉机器人如何做。
+
+整个过程是这样的，假设我们有一个远程虚拟桌面。
+
+![](/assets2.8/import3.png)
+
+1. 选择click image组件，需要用鼠标画出要操作的区域。会弹出对话框。点击indicate。
+2. 使用type组件来录入数据。
+
+![](/assets2.8/import4.png)
 
 涉及的组件有：
 
