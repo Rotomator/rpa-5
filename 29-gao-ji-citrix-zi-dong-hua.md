@@ -1,4 +1,3 @@
 # 高级Citrix自动化
 
-The solution for this is quite simple: use the Find Image activity so that you can continue the rest of the workflow only when an indicated image is displayed on the screen.
-
+整个自动化的核心就是使用Find Image组件，然后你可以继续余下的流程。
