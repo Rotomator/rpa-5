@@ -18,5 +18,5 @@ UiPtah提供了三种方式来完成，
 
 ![](/assets2.11/import2.png)
 
-
+方式三： 在创建的时候选择“Agent Assistant Template”
 
