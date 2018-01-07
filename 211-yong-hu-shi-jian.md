@@ -9,5 +9,12 @@
 
 ## 如何实现监控
 
-UiPtah提供了三种方式来完成，
+UiPtah提供了三种方式来完成，  
 方式一: 从uipath菜单栏中选择导航。
+
+![](/assets2.11/import1.png)
+
+方式二：使用和监控相关的组件。
+
+![](/assets2.11/import2.png)
+
