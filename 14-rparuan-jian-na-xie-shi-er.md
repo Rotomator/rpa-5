@@ -61,6 +61,9 @@ Attended机器人是需要：
 所以本文开头的提到朋友，我就推荐他们使用attended的bot，单bot来说，7、8台才达到一个人工一年的成本。
 
 
+PS. ABBYY Flexicapture.
+
+
 
 
 
