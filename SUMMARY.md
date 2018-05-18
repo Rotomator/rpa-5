@@ -7,6 +7,7 @@
     * [使用UiPath获取天气数据，并发送邮件给自己](shi-yong-uipath-stduio-lu-zhi-liu-cheng/shi-yong-uipath-huo-qu-tian-qi-shu-ju-ff0c-bing-fa-song-you-jian-gei-zi-ji.md)
   * [1.2 UiPath Reboot概述](uipath-reboot.md)
   * [1.3 UiPath Orchestrator概述](uipath-orchestrator.md)
+  * [1.4 RPA软件那些事儿](14-rparuan-jian-na-xie-shi-er.md)
 * [第二章 UiPath功能](di-er-zhang-uipath-gong-neng.md)
   * [2.1 流控制、序列、分支](liu-kong-zhi-ff0c-xu-lie-ff0c-fen-zhi.md)
   * [2.2 数据操作](22-shu-ju-cao-zuo.md)
