@@ -60,8 +60,7 @@ Attended机器人是需要：
 但 Ochestrator(集中管理平台)，只有使用Unattended时才必须购买。
 所以本文开头的提到朋友，我就推荐他们使用attended的bot，单bot来说，7、8台才达到一个人工一年的成本。
 
-
-PS. ABBYY Flexicapture.
+UIPath特别容易扩展，例如可以使用ABBYY Flexicapture来进行OCR扫描。
 
 
 
